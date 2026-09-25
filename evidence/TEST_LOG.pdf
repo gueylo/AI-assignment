@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2282 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (TEST_LOG - execution record) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (Template only. Replace NOT RUN after the group performs each test.) Tj ET
+BT 0.1 0.2 0.3 rg /F2 8 Tf 40 500 Td (Test | Command/action | Expected result | Actual result | Pass/Fail | Notes) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 465 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 486.0 Td (Clean installation | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 413 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 434.0 Td (run_all.py on lecturer dataset | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 361 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 382.0 Td (No fixed row assumptions | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 309 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 330.0 Td (Regression loss and metrics recomputed | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 257 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 278.0 Td (Classification metrics match predictions | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 205 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 226.0 Td (Silhouette scores k=2 through k=5 when valid | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 153 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 174.0 Td (Every row receives a cluster label | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 101 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 122.0 Td (Valid predict.py JSON | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+BT 0.48 0.33 0.07 rg /F2 9 Tf 45 60 Td (Reminder: do not record PASS until the command has actually been run and inspected.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2051 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (TEST_LOG - execution record) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (Template only. Replace NOT RUN after the group performs each test.) Tj ET
+BT 0.1 0.2 0.3 rg /F2 8 Tf 40 500 Td (Test | Command/action | Expected result | Actual result | Pass/Fail | Notes) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 465 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 486.0 Td (Incomplete predict.py JSON gives clear error | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 413 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 434.0 Td (No identifier/target leakage | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 361 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 382.0 Td (Scalers fitted only on training data | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 309 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 330.0 Td (All required files created | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 257 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 278.0 Td (Delete artifacts and rerun | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 205 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 226.0 Td (Clean terminal/environment | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 40 153 755 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 47 174.0 Td (Copy of CSV with different rows | Complete during testing | Record expected outcome | NOT RUN | NOT RUN | Add evidence or note) Tj ET
+BT 0.48 0.33 0.07 rg /F2 9 Tf 45 60 Td (Reminder: do not record PASS until the command has actually been run and inspected.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002600 00000 n 
+0000002736 00000 n 
+0000004839 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+4975
+%%EOF

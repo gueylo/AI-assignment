@@ -1,0 +1,108 @@
+{
+  "group_code": "AI-GXX",
+  "row_count": 40,
+  "feature_count": 6,
+  "feature_columns": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ],
+  "missing_values": {
+    "record_id": 0,
+    "plot_area_ha": 0,
+    "rainfall_mm": 0,
+    "soil_ph": 0,
+    "seed_kg": 0,
+    "distance_km": 0,
+    "arrival_hour": 0,
+    "actual_yield_kg": 0,
+    "dispatch_attention": 0
+  },
+  "duplicate_count": 0,
+  "descriptive_statistics": {
+    "plot_area_ha": {
+      "count": 40.0,
+      "mean": 1.355,
+      "std": 0.3754996671103717,
+      "min": 0.7,
+      "25%": 1.0375,
+      "50%": 1.375,
+      "75%": 1.6624999999999999,
+      "max": 1.95
+    },
+    "rainfall_mm": {
+      "count": 40.0,
+      "mean": 91.625,
+      "std": 20.810115267241972,
+      "min": 56.0,
+      "25%": 75.5,
+      "50%": 92.0,
+      "75%": 108.5,
+      "max": 125.0
+    },
+    "soil_ph": {
+      "count": 40.0,
+      "mean": 5.55,
+      "std": 0.35445877847928337,
+      "min": 5.2,
+      "25%": 5.2,
+      "50%": 5.550000000000001,
+      "75%": 5.9,
+      "max": 5.9
+    },
+    "seed_kg": {
+      "count": 40.0,
+      "mean": 212.5,
+      "std": 51.84048511960413,
+      "min": 125.0,
+      "25%": 169.75,
+      "50%": 212.5,
+      "75%": 255.25,
+      "max": 300.0
+    },
+    "distance_km": {
+      "count": 40.0,
+      "mean": 19.7,
+      "std": 8.941978212843864,
+      "min": 5.0,
+      "25%": 11.75,
+      "50%": 19.5,
+      "75%": 27.25,
+      "max": 35.0
+    },
+    "arrival_hour": {
+      "count": 40.0,
+      "mean": 11.6,
+      "std": 3.4403339134301247,
+      "min": 6.0,
+      "25%": 9.0,
+      "50%": 11.5,
+      "75%": 14.25,
+      "max": 17.0
+    },
+    "actual_yield_kg": {
+      "count": 40.0,
+      "mean": 3601.95,
+      "std": 429.54061030062803,
+      "min": 2913.4,
+      "25%": 3300.2,
+      "50%": 3539.1,
+      "75%": 3946.6,
+      "max": 4465.0
+    },
+    "dispatch_attention": {
+      "count": 40.0,
+      "mean": 0.525,
+      "std": 0.505736325340815,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 1.0,
+      "75%": 1.0,
+      "max": 1.0
+    }
+  },
+  "sha256": "1ac4faec8202c10bc200c78ab39b9529effd1c83627227dd3801f5e15b0161b6"
+}

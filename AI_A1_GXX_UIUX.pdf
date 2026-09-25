@@ -1,0 +1,240 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1349 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Musanze Cooperative Harvest and Dispatch Decision Lab) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (UI/UX concept - Group AI-GXX - replace placeholders) Tj ET
+BT 0.1 0.2 0.3 rg /F2 26 Tf 45 455 Td (A simple decision-support interface for cooperative staff) Tj ET
+BT 0.1 0.2 0.3 rg /F1 12 Tf 45 415 Td (Stakeholder: Musanze potato cooperative staff who review harvest and dispatch operations.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 45 260 220 95 re B Q
+BT 0.1 0.2 0.3 rg /F2 11 Tf 52 311.35 Td (DECISION 1) Tj ET
+BT 0.1 0.2 0.3 rg /F2 11 Tf 52 297.35 Td (Is the input file safe to use?) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 310 260 220 95 re B Q
+BT 0.1 0.2 0.3 rg /F2 11 Tf 317 311.35 Td (DECISION 2) Tj ET
+BT 0.1 0.2 0.3 rg /F2 11 Tf 317 297.35 Td (What harvest weight is expected?) Tj ET
+q 1 0.94 0.92 rg 0.7 0.29 0.23 RG 1.2 w 575 260 220 95 re B Q
+BT 0.1 0.2 0.3 rg /F2 11 Tf 582 311.35 Td (DECISION 3) Tj ET
+BT 0.1 0.2 0.3 rg /F2 11 Tf 582 297.35 Td (Does this consignment need review?) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 45 100 750 70 re B Q
+BT 0.1 0.2 0.3 rg /F2 10 Tf 52 138.5 Td (Design principle) Tj ET
+BT 0.1 0.2 0.3 rg /F2 10 Tf 52 125.5 Td (Show recommendations clearly, but keep human review and override visible. Predictions are not guaranteed facts.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 1913 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (User journey and information flow) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (The interface follows the staff member's real decision sequence.) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 35 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 42 362.5 Td (CSV upload) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 160 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 167 362.5 Td (Data validation) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 285 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 292 362.5 Td (Data quality review) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 410 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 417 362.5 Td (Prediction) Tj ET
+q 1 0.94 0.92 rg 0.7 0.29 0.23 RG 1.2 w 535 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 542 362.5 Td (Dispatch warning) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 660 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 667 362.5 Td (Clustering) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 785 330 100 65 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 792 362.5 Td (Human decision) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 70 165 220 75 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 77 205.65 Td (Quality gate) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 77 193.65 Td (Warnings stop silent use of incomplete or invalid data.) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 310 165 220 75 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 317 205.65 Td (Decision support) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 317 193.65 Td (Yield, probability, and cluster use plain labels.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 550 165 220 75 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 557 205.65 Td (Human control) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 557 193.65 Td (Staff accept, override, or request review.) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 55 100 Td (Arrows represent information flow, not automatic authority: the final action remains with the staff member.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 2237 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Annotated wireframe: data quality review) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (The first screen answers: Can I trust this file enough to continue?) Tj ET
+q 1 1 1 rg 0.1 0.2 0.3 RG 1.2 w 42 150 505 330 re B Q
+BT 0.1 0.2 0.3 rg /F2 14 Tf 49 315.0 Td (1. Upload and validate dataset) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 65 390 455 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 412.5 Td (AI_A1_GXX.csv   [Choose file]   [Validate]) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 65 300 130 55 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 330.65 Td (Rows) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 318.65 Td (loaded dynamically) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 220 300 130 55 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 227 330.65 Td (Missing values) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 227 318.65 Td (0) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 375 300 145 55 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 382 330.65 Td (Duplicates) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 382 318.65 Td (0) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 65 235 455 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 10 Tf 72 257.5 Td (Validation state: READY FOR REVIEW) Tj ET
+BT 0.32 0.38 0.43 rg /F1 9 Tf 65 205 Td (Warnings identify missing columns, invalid values, or incomplete data.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 65 165 170 32 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 72 181.0 Td ([Review warnings]) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG 1.2 w 350 165 170 32 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 357 181.0 Td ([Continue to analysis]) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 595 390 200 90 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 438.15 Td (A. File identity) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 426.15 Td (Show filename and SHA-256 evidence.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 595 275 200 90 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 323.15 Td (B. Clear status) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 311.15 Td (Use READY, REVIEW REQUIRED, or BLOCKED alongside color.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 595 160 200 90 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 208.15 Td (C. Actionable warnings) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 196.15 Td (Tell staff what needs checking before continuing.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2529 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Annotated wireframe: prediction and dashboard) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (One selected record is explained in operational language.) Tj ET
+q 1 1 1 rg 0.1 0.2 0.3 RG 1.2 w 42 150 540 330 re B Q
+BT 0.1 0.2 0.3 rg /F2 14 Tf 49 315.0 Td (2. Record decision view) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 65 390 220 48 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 417.15 Td (Record ID) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 405.15 Td ([from CSV]) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 310 390 240 48 re B Q
+BT 0.1 0.2 0.3 rg /F2 10 Tf 317 417.5 Td (Expected yield) Tj ET
+BT 0.1 0.2 0.3 rg /F2 10 Tf 317 404.5 Td ([calculated] kg) Tj ET
+q 1 0.94 0.92 rg 0.7 0.29 0.23 RG 1.2 w 65 315 230 58 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 347.15 Td (Dispatch attention) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 335.15 Td (REVIEW / NOT REVIEW) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 320 315 230 58 re B Q
+BT 0.1 0.2 0.3 rg /F2 10 Tf 327 347.5 Td (Probability) Tj ET
+BT 0.1 0.2 0.3 rg /F2 10 Tf 327 334.5 Td ([0.00-1.00]) Tj ET
+q 0.94 0.91 0.98 rg 0.46 0.33 0.65 RG 1.2 w 65 240 230 58 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 272.15 Td (Operating cluster) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 260.15 Td (Cluster [label]) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 320 240 230 58 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 327 272.15 Td (Confidence note) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 327 260.15 Td (Review uncertain cases) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 65 175 150 34 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 72 192.0 Td ([Accept recommendation]) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 235 175 150 34 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 242 192.0 Td ([Override]) Tj ET
+q 1 0.94 0.92 rg 0.7 0.29 0.23 RG 1.2 w 405 175 145 34 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 412 192.0 Td ([Manual review]) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 620 390 175 90 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 627 438.15 Td (A. Explain output) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 627 426.15 Td (Use labels and units, not only numbers.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 620 275 175 90 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 627 323.15 Td (B. Avoid overclaiming) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 627 311.15 Td (Cluster labels describe similarity, not quality.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 620 160 175 90 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 627 208.15 Td (C. Preserve control) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 627 196.15 Td (Require a reason when overriding.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 1618 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Responsible AI states) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (The design makes uncertainty and human authority visible.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 55 425 255 52 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 451.0 Td (UNCERTAIN PREDICTION) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 335 445 Td (Show probability and ask for manual review.) Tj ET
+q 1 0.94 0.92 rg 0.7 0.29 0.23 RG 1.2 w 55 355 255 52 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 381.0 Td (MISSING DATA) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 335 375 Td (Explain which field is missing and block silent use.) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 55 285 255 52 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 311.0 Td (MODEL LIMITATION) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 335 305 Td (State that the model learns patterns from this dataset only.) Tj ET
+q 0.94 0.91 0.98 rg 0.46 0.33 0.65 RG 1.2 w 55 215 255 52 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 241.0 Td (HUMAN OVERRIDE) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 335 235 Td (Allow override and capture the reason.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 55 145 255 52 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 171.0 Td (MANUAL REVIEW) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 335 165 Td (Route the record to staff when evidence is insufficient.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 55 70 735 55 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 100.65 Td (Human decision statement) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 88.65 Td (The system provides an AI recommendation. Staff may accept it, override it, or request manual review. A prediction is not a guaranteed fact.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 2031 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Visual system and design rationale) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (Simple choices support non-technical cooperative staff.) Tj ET
+BT 0.1 0.2 0.3 rg /F2 13 Tf 55 470 Td (Accessible labels) Tj ET
+BT 0.1 0.2 0.3 rg /F1 10 Tf 55 448 Td (Use plain words, units, and short explanations. Avoid unexplained model jargon.) Tj ET
+BT 0.1 0.2 0.3 rg /F2 13 Tf 55 390 Td (Colors and legends) Tj ET
+BT 0.1 0.2 0.3 rg /F1 10 Tf 55 368 Td (Blue = information, green = ready, amber = review, red = warning. Every color state also has text.) Tj ET
+q 0.93 0.96 0.98 rg 0.18 0.4 0.56 RG 1.2 w 55 275 150 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 299.15 Td (Blue) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 287.15 Td (Information) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 235 275 150 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 242 299.15 Td (Green) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 242 287.15 Td (Ready) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 415 275 150 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 422 299.15 Td (Amber) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 422 287.15 Td (Review) Tj ET
+q 1 0.94 0.92 rg 0.7 0.29 0.23 RG 1.2 w 595 275 150 42 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 299.15 Td (Red) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 602 287.15 Td (Warning) Tj ET
+BT 0.1 0.2 0.3 rg /F2 13 Tf 55 225 Td (Three important design decisions) Tj ET
+BT 0.1 0.2 0.3 rg /F1 10 Tf 60 200 Td (1. Put data validation first so staff do not act on an invalid file.) Tj ET
+BT 0.1 0.2 0.3 rg /F1 10 Tf 60 182 Td (2. Put prediction, probability, and units together so the recommendation is understandable.) Tj ET
+BT 0.1 0.2 0.3 rg /F1 10 Tf 60 164 Td (3. Make accept, override, reason, and manual review visible so accountability remains human.) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 55 65 735 55 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 95.65 Td (Legend rule) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 62 83.65 Td (Do not rely only on color. Use headings, icons or symbols, and explanatory text for every warning or status.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000149 00000 n 
+0000000219 00000 n 
+0000000294 00000 n 
+0000001695 00000 n 
+0000001831 00000 n 
+0000003796 00000 n 
+0000003932 00000 n 
+0000006221 00000 n 
+0000006358 00000 n 
+0000008940 00000 n 
+0000009078 00000 n 
+0000010749 00000 n 
+0000010887 00000 n 
+0000012971 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+13109
+%%EOF

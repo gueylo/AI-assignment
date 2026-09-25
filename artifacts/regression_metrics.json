@@ -1,0 +1,20 @@
+{
+  "random_seed": 42,
+  "learning_rate": 0.01,
+  "epochs": 1000,
+  "feature_columns": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ],
+  "train_size": 32,
+  "test_size": 8,
+  "MAE": 31.550316317596753,
+  "RMSE": 35.57120266740143,
+  "R2": 0.9869003478331853,
+  "final_training_loss": 0.003488828963704686,
+  "target_scaling": "training mean and standard deviation used for stable gradient descent"
+}

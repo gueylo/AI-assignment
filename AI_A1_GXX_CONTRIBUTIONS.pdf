@@ -1,0 +1,119 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2159 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (SWE 3513 Assignment 1 - Contribution Evidence) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (Group AI-GXX - replace placeholders with genuine names, roles, and commits) Tj ET
+BT 0.1 0.2 0.3 rg /F2 16 Tf 45 485 Td (Group members and assigned roles) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 45 420 150 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 52 445.0 Td (Member 1) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 205 420 285 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 212 445.0 Td (Name / registration number) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 500 420 295 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 507 445.0 Td (Data and UX lead) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 45 355 150 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 52 380.0 Td (Member 2) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 205 355 285 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 212 380.0 Td (Name / registration number) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 500 355 295 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 507 380.0 Td (Regression engineer) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 45 290 150 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 52 315.0 Td (Member 3) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 205 290 285 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 212 315.0 Td (Name / registration number) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 500 290 295 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 507 315.0 Td (Classification engineer) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 45 225 150 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 52 250.0 Td (Member 4) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 205 225 285 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 212 250.0 Td (Name / registration number) Tj ET
+q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 500 225 295 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 9 Tf 507 250.0 Td (Clustering, QA, and release) Tj ET
+q 1 0.97 0.89 rg 0.85 0.61 0.13 RG 1.2 w 45 100 750 75 re B Q
+BT 0.1 0.2 0.3 rg /F2 10 Tf 52 141.0 Td (Evidence rule) Tj ET
+BT 0.1 0.2 0.3 rg /F2 10 Tf 52 128.0 Td (Replace placeholders only with genuine contributions and real Git commits. Do not fabricate commit history or claim work not performed.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2583 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Commit and contribution record) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (Complete this page from the actual Git history before submission.) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG 1.2 w 45 440 120 38 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 52 459.0 Td (Member) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG 1.2 w 175 440 210 38 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 182 459.0 Td (Commit 1 hash + message) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG 1.2 w 400 440 210 38 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 407 459.0 Td (Commit 2 hash + message) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG 1.2 w 625 440 170 38 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 632 459.0 Td (Reviewed by) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 45 380 120 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 52 405.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 175 380 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 182 405.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 400 380 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 407 405.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 625 380 170 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 632 405.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 45 315 120 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 52 340.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 175 315 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 182 340.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 400 315 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 407 340.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 625 315 170 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 632 340.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 45 250 120 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 52 275.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 175 250 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 182 275.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 400 250 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 407 275.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 625 250 170 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 632 275.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 45 185 120 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 52 210.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 175 185 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 182 210.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 400 185 210 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 407 210.0 Td () Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG 1.2 w 625 185 170 50 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 632 210.0 Td () Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 50 95 Td (Submission notes: Record the final commit hash, repository URL, and genuine review or testing) Tj ET
+BT 0.1 0.2 0.3 rg /F1 11 Tf 50 81 Td (responsibilities here.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002477 00000 n 
+0000002613 00000 n 
+0000005248 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5384
+%%EOF
