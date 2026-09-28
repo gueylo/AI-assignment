@@ -1,0 +1,25 @@
+{
+  "random_seed": 42,
+  "feature_columns": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ],
+  "evaluated_k_values": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "silhouette_scores": {
+    "2": 0.16442571391031618,
+    "3": 0.1920815615436371,
+    "4": 0.22606598890707935,
+    "5": 0.24012771573731975
+  },
+  "selected_k": 5,
+  "interpretation": "Clusters are mathematical groups based on similar standardized operating characteristics in this dataset; they are not good/bad farm labels."
+}

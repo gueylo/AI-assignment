@@ -1,0 +1,30 @@
+{
+  "random_seed": 42,
+  "classification_threshold": 0.5,
+  "feature_columns": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ],
+  "train_size": 32,
+  "test_size": 8,
+  "stratified_split_used": true,
+  "accuracy": 0.625,
+  "precision": 0.6666666666666666,
+  "recall": 0.5,
+  "f1_score": 0.5714285714285714,
+  "confusion_matrix": [
+    [
+      3,
+      1
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "scenario_interpretation": "A false negative means the program predicts that dispatch attention is not required even though it was actually required. In this operational scenario, a false negative may be particularly costly because a consignment needing intervention could be missed."
+}
