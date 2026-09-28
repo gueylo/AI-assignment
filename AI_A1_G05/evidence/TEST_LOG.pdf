@@ -1,0 +1,209 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 5635 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 18 Tf 35 560 Td (TEST_LOG - verified execution record) Tj ET
+BT 0.32 0.38 0.43 rg /F1 9 Tf 35 540 Td (All 15 checks passed on synthetic demo data: data/AI_A1_GXX.csv \(40 rows\).) Tj ET
+BT 0.48 0.33 0.07 rg /F1 8 Tf 35 526 Td (Page 1 of 2. Replace this evidence after rerunning with the real lecturer-issued CSV.) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 30 478 140 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 34 498 Td (Test) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 175 478 180 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 179 498 Td (Command/action) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 365 478 360 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 369 498 Td (Actual result) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 735 478 75 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 739 498 Td (Result) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 430 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 465 Td (1. Clean installation) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 430 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 465 Td (./.venv/bin/python -m pip check) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 430 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 465 Td (No broken requirements found.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 430 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 465 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 378 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 413 Td (2. run_all.py on lecturer-) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 406 Td (style dataset) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 378 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 413 Td (Run run_all.py on demo CSV) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 378 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 413 Td (Pipeline completed; 40 rows loaded and outputs generated.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 378 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 413 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 326 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 361 Td (3. No fixed row assumptions) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 326 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 361 Td (Run on schema-equivalent 35-row copy) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 326 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 361 Td (Pipeline completed; data_report row_count was 35.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 326 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 361 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 274 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 309 Td (4. Regression loss and) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 302 Td (metrics recomputed) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 274 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 309 Td (Independently recompute saved-model) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 302 Td (test predictions) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 274 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 309 Td (MAE, RMSE, and R2 matched JSON; loss artifact exists.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 274 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 309 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 222 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 257 Td (5. Classification metrics) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 250 Td (match predictions) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 222 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 257 Td (Independently recalculate labels and) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 250 Td (metrics) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 222 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 257 Td (Accuracy, precision, recall, F1, and confusion matrix matched.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 222 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 257 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 170 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 205 Td (6. Silhouette scores k=2) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 198 Td (through k=5) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 170 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 205 Td (Inspect clustering_metrics.json) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 170 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 205 Td (Scores recorded for k=2, 3, 4, and 5; selected k=5.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 170 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 205 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 118 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 153 Td (7. Every row receives a) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 146 Td (cluster label) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 118 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 153 Td (Compare clusters.csv with input) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 146 Td (record IDs) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 118 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 153 Td (All 40 input records received a non-null label.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 118 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 153 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 66 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 101 Td (8. Valid predict.py JSON) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 66 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 101 Td (Run valid six-field JSON record) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 66 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 101 Td (Valid JSON returned with all required prediction fields.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 66 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 101 Td (PASS) Tj ET
+BT 0.48 0.33 0.07 rg /F2 8 Tf 35 45 Td (Note: These results are genuine execution evidence for the synthetic demo dataset only.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 5270 >>
+stream
+BT 0.1 0.2 0.3 rg /F2 18 Tf 35 560 Td (TEST_LOG - verified execution record) Tj ET
+BT 0.32 0.38 0.43 rg /F1 9 Tf 35 540 Td (All 15 checks passed on synthetic demo data: data/AI_A1_GXX.csv \(40 rows\).) Tj ET
+BT 0.48 0.33 0.07 rg /F1 8 Tf 35 526 Td (Page 2 of 2. Replace this evidence after rerunning with the real lecturer-issued CSV.) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 30 478 140 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 34 498 Td (Test) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 175 478 180 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 179 498 Td (Command/action) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 365 478 360 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 369 498 Td (Actual result) Tj ET
+q 0.1 0.2 0.3 rg 0.1 0.2 0.3 RG .8 w 735 478 75 30 re B Q
+BT 0.1 0.2 0.3 rg /F2 7 Tf 739 498 Td (Result) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 430 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 465 Td (9. Incomplete predict.py) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 458 Td (JSON) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 430 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 465 Td (Run record containing only) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 458 Td (plot_area_ha) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 430 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 465 Td (Readable missing-fields validation error returned.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 430 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 465 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 378 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 413 Td (10. No identifier/target) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 406 Td (leakage) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 378 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 413 Td (Inspect model feature lists and) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 406 Td (clustering inputs) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 378 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 413 Td (Only six input features used; identifier and targets excluded.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 378 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 413 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 326 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 361 Td (11. Scalers fitted only on) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 354 Td (training data) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 326 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 361 Td (Inspect supervised preprocessing) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 354 Td (code) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 326 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 361 Td (Scalers fit on x_train and only transform x_test.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 326 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 361 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 274 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 309 Td (12. All required files) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 302 Td (created) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 274 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 309 Td (List isolated artifacts and models) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 302 Td (outputs) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 274 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 309 Td (All required artifact and model files were created.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 274 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 309 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 222 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 257 Td (13. Delete artifacts and) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 250 Td (rerun) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 222 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 257 Td (Remove isolated outputs and rerun) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 250 Td (pipeline) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 222 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 257 Td (Outputs were recreated automatically.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 222 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 257 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 170 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 205 Td (14. Clean) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 198 Td (terminal/environment) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 170 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 205 Td (Run with minimal clean environment) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 170 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 205 Td (Pipeline completed successfully.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 170 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 205 Td (PASS) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 30 118 140 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 153 Td (15. CSV copy with different) Tj ET
+BT 0.1 0.2 0.3 rg /F1 6 Tf 34 146 Td (rows) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 175 118 180 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 179 153 Td (Run on 35-row schema-equivalent copy) Tj ET
+q 1 1 1 rg 0.48 0.53 0.58 RG .8 w 365 118 360 45 re B Q
+BT 0.1 0.2 0.3 rg /F1 6 Tf 369 153 Td (Pipeline completed without hard-coded row assumptions.) Tj ET
+q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG .8 w 735 118 75 45 re B Q
+BT 0.1 0.2 0.3 rg /F2 8 Tf 739 153 Td (PASS) Tj ET
+BT 0.48 0.33 0.07 rg /F2 8 Tf 35 45 Td (Note: These results are genuine execution evidence for the synthetic demo dataset only.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000005953 00000 n 
+0000006089 00000 n 
+0000011411 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+11547
+%%EOF
