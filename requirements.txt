@@ -30,7 +30,7 @@ joblib>=1.3
 # python -m pip install -r requirements.txt
 #
 # 5. Run the complete pipeline:
-# MPLCONFIGDIR=/tmp/ai-assignment-mpl ./.venv/bin/python run_all.py --data data/AI_A1_GXX.csv --output artifacts/ --group AI-GXX
+# MPLCONFIGDIR=/tmp/ai-assignment-mpl ./.venv/bin/python run_all.py --data data/AI_A1_G05.csv --output artifacts/ --group AI-G05
 #
 # 6. Run one valid prediction:
 # MPLCONFIGDIR=/tmp/ai-assignment-mpl ./.venv/bin/python predict.py --models models/ --record '{"plot_area_ha":1.2,"rainfall_mm":81,"soil_ph":5.7,"seed_kg":210,"distance_km":14,"arrival_hour":9}'

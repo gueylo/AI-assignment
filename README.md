@@ -2,11 +2,11 @@
 
 **Course:** SWE 3513 – Artificial Intelligence  
 **Assignment:** Assignment 1  
-**Group code:** AI-GXX  
+**Group code:** AI-G05  
 **Group members:** Replace this line with the real names and registration numbers.  
 **Assigned roles:** Replace this line with the real role allocation.
 
-> **Demo-data warning:** `data/AI_A1_GXX.csv` currently contains synthetic demonstration data created only to verify that the software runs. It is not lecturer-issued data and must be replaced before submission or hidden-dataset testing.
+> **Demo-data warning:** `data/AI_A1_G05.csv` currently contains synthetic demonstration data created only to verify that the software runs. It is not lecturer-issued data and must be replaced before submission or hidden-dataset testing.
 
 ## Project purpose
 
@@ -59,18 +59,18 @@ Install dependencies:
 python -m pip install -r requirements.txt
 ```
 
-Place the original lecturer-issued file in `data/`. Do not rename or edit its contents. The current `AI_A1_GXX.csv` is only synthetic demo data and must be replaced with the real file before submission. Replace the example filename below with the real group filename.
+Place the original lecturer-issued file in `data/`. Do not rename or edit its contents. The current `AI_A1_G05.csv` is only synthetic demo data and must be replaced with the real file before submission.
 
 ## Run the complete pipeline
 
 ```bash
-python run_all.py --data data/AI_A1_GXX.csv --output artifacts/ --group AI-GXX
+python run_all.py --data data/AI_A1_G05.csv --output artifacts/ --group AI-G05
 ```
 
 The optional models-folder argument can also be supplied explicitly:
 
 ```bash
-python run_all.py --data data/AI_A1_GXX.csv --output artifacts/ --models models/ --group AI-GXX
+python run_all.py --data data/AI_A1_G05.csv --output artifacts/ --models models/ --group AI-G05
 ```
 
 The pipeline dynamically validates the data, calculates the original CSV SHA-256, trains the three analyses, saves models, and creates all required artifacts.
@@ -103,7 +103,7 @@ src/
   classification.py
   clustering.py
 data/
-  AI_A1_GXX.csv
+  AI_A1_G05.csv
 artifacts/
 models/
 evidence/

@@ -30,7 +30,7 @@ AI assistance was used while preparing the project files in this repository, inc
 - `README.md`
 - `evidence/AI_USE.md`
 - `evidence/TEST_LOG.pdf`
-- `data/AI_A1_GXX.csv` (synthetic demo data only; not lecturer-issued data)
+- `data/AI_A1_G05.csv` (synthetic demo data only; not lecturer-issued data)
 - UI/UX and contribution concept documents
 
 The group must update this list if additional files are changed with AI assistance.

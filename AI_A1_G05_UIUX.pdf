@@ -15,7 +15,7 @@ endobj
 << /Length 1349 >>
 stream
 BT 0.1 0.2 0.3 rg /F2 20 Tf 38 555 Td (Musanze Cooperative Harvest and Dispatch Decision Lab) Tj ET
-BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (UI/UX concept - Group AI-GXX - replace placeholders) Tj ET
+BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (UI/UX concept - Group AI-G05 - replace placeholders) Tj ET
 BT 0.1 0.2 0.3 rg /F2 26 Tf 45 455 Td (A simple decision-support interface for cooperative staff) Tj ET
 BT 0.1 0.2 0.3 rg /F1 12 Tf 45 415 Td (Stakeholder: Musanze potato cooperative staff who review harvest and dispatch operations.) Tj ET
 q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 45 260 220 95 re B Q
@@ -77,7 +77,7 @@ BT 0.32 0.38 0.43 rg /F1 10 Tf 38 532 Td (The first screen answers: Can I trust 
 q 1 1 1 rg 0.1 0.2 0.3 RG 1.2 w 42 150 505 330 re B Q
 BT 0.1 0.2 0.3 rg /F2 14 Tf 49 315.0 Td (1. Upload and validate dataset) Tj ET
 q 0.96 0.97 0.98 rg 0.48 0.53 0.58 RG 1.2 w 65 390 455 45 re B Q
-BT 0.1 0.2 0.3 rg /F2 9 Tf 72 412.5 Td (AI_A1_GXX.csv   [Choose file]   [Validate]) Tj ET
+BT 0.1 0.2 0.3 rg /F2 9 Tf 72 412.5 Td (AI_A1_G05.csv   [Choose file]   [Validate]) Tj ET
 q 0.91 0.97 0.92 rg 0.23 0.56 0.36 RG 1.2 w 65 300 130 55 re B Q
 BT 0.1 0.2 0.3 rg /F2 9 Tf 72 330.65 Td (Rows) Tj ET
 BT 0.1 0.2 0.3 rg /F2 9 Tf 72 318.65 Td (loaded dynamically) Tj ET

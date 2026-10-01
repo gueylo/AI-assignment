@@ -21,16 +21,12 @@ The pipeline supports three operational decisions:
 
 | Role | Student | Registration Number | Main Responsibility |
 
-| Member 1 — Data & UX Lead | `[NAME]` | `[REG NO.]` | Schema validation, vectorization, data report, UI/UX coordination |
+| Member 1 — Data & UX Lead | `[ADAM IBRAHIM HACHIM]` | `[ 25/27413]` | Schema validation, vectorization, data report, UI/UX coordination |
 | Member 2 — Regression Engineer | `[KAWAYA GUEYLORD]` | `[25/27953]` | NumPy regression, gradient descent, scaling, loss curve, regression metrics |
-| Member 3 — Classification Engineer | `[NAME]` | `[REG NO.]` | Classification split, model, metrics, confusion matrix, error-cost interpretation |
-| Member 4 — Clustering & QA Engineer | `[NAME]` | `[REG NO.]` | Clustering, silhouette comparison, labels, cross-pipeline QA |
-| Member 5 — Reproducibility & Release Lead | `[NAME / N/A]` | `[REG NO. / N/A]` | CLI, prediction command, requirements, README, release evidence |
-
-> For a four-member group, Member 4 also owns reproducibility and release responsibilities.
-
-**GitHub repository:** `[INSERT REPOSITORY URL]` 
-
+| Member 3 — Classification Engineer | `[ ISIMBI HUGETTE ]` | `[25/27647 ]` | Classification split, model, metrics, confusion matrix, error-cost interpretation |
+| Member 4 — Clustering & QA Engineer | `[SEBIT AMKALSUM]` | `[25/28050]` | Clustering, silhouette comparison, labels, cross-pipeline QA |
+| Member 5 — Reproducibility & Release Lead | `[YAYA GOUNI SOULEYMAN]` | `[ 26/38963]` | CLI, prediction command, requirements, README, release evidence |
+s
 ## 3. Dataset Schema
 
 The lecturer-issued CSV must keep the following column names unchanged.
@@ -189,7 +185,7 @@ The virtual environment itself must **not** be included in the submission ZIP.
 From the project root, run:
 
 ```bash
-python run_all.py --data data/AI_A1_GXX.csv --output artifacts/ --group AI-GXX
+python run_all.py --data data/AI_A1_G05.csv --output artifacts/ --group AI-G05
 ```
 
 Replace `GXX` with the assigned group number.
@@ -223,5 +219,3 @@ model/preprocessing persistence
    ↓
 JSON / CSV / PNG artifacts
 ```
-
-
